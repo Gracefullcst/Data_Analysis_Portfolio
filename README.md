@@ -8,5 +8,5 @@ A financial valuation and comparative investment analysis for two real estate as
 ### [Supermatket Sales Analysis for Revenue Growth]
 ![]
 
-### [Customer Churn Analysis to Develop Retention Strategies]
+### [Customer Churn Analysis to Develop Retention Strategies](https://github.com/JB-Obi/Customer_Churn_Analysis)
 ![Customer Churn Image](https://github.com/JB-Obi/Customer_Churn_Analysis/blob/main/Customer%20churn%20image.png)
